@@ -1,6 +1,6 @@
 ---
 name: Weike Pei
-image: images/photo.jpg
+image: images/pwk.png
 role: principal-investigator
 affiliation: Westlake University
 links:

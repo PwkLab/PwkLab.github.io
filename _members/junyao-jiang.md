@@ -1,6 +1,6 @@
 ---
 name: Junyao Jiang
-image: images/photo.jpg
+image: images/jjy.jpg
 role: phd
 links:
   home-page: https://jiang-junyao.github.io/
