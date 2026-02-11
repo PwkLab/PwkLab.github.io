@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Projects
 
 Progress in science depends on new techniques, new discoveries and new ideas, probably in that order. —— Sydney Brenner
 
