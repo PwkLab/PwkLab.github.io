@@ -11,15 +11,8 @@ Progress in science depends on new techniques, new discoveries and new ideas, pr
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
 
 ## All
-
-{% include search-box.html %}
 
 {% include search-info.html %}
 
