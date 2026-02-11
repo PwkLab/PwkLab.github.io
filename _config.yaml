@@ -1,19 +1,15 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Pei Lab
+subtitle: Systems Immunology, Stem Cells & Regenerative Medicine
+description: Dr. Weike Pei obtained his Ph.D. in Immunology at Heidelberg University in 2018. In graduate school, he worked with Dr. Hans-Reimer Rodewald on cell fate decision of hematopoietic stem cells. Following postdoctoral training at the German Cancer Research Center, he joined Harvard Medical School/Brigham and Women’s Hospital as a Research Fellow, working on immune regulation and cancer immunotherapy. His research is published in Nature, Cell Stem Cell, Nature Protocols, Cell Research and other journals. In 2022, Dr. Weike Pei joined Westlake University as an Assistant Professor.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: peiweike@westlake.edu.cn
+  orcid: 0000-0002-2996-9048
 
 ### jekyll settings
 

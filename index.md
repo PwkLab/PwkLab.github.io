@@ -1,10 +1,9 @@
 ---
 ---
 
-# Lab Website Template
+# Pei Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Dr. Weike Pei obtained his Ph.D. in Immunology at Heidelberg University in 2018. In graduate school, he worked with Dr. Hans-Reimer Rodewald on cell fate decision of hematopoietic stem cells. Following postdoctoral training at the German Cancer Research Center, he joined Harvard Medical School/Brigham and Women’s Hospital as a Research Fellow, working on immune regulation and cancer immunotherapy. His research is published in Nature, Cell Stem Cell, Nature Protocols, Cell Research and other journals. In 2022, Dr. Weike Pei joined Westlake University as an Assistant Professor.
 
 {%
   include button.html
