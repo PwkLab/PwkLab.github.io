@@ -14,6 +14,8 @@ Progress in science depends on new techniques, new discoveries and new ideas, pr
 
 ## All
 
+{% include search-box.html %}
+
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
