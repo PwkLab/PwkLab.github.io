@@ -3,5 +3,3 @@
   image: images/scltdb.png
   link: https://scltdb.com/
   description: scLTdb: a comprehensive single-cell lineage tracing database.
-  tags:
-    - software
