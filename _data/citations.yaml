@@ -65,14 +65,14 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/39470724
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:36550269
-  title: tRNA-m
+- id: doi:10.1038/s41422-022-00764-1
+  title: 'tRNA-m1A modification: a translational checkpoint for T cell expansion'
   authors:
   - Weike Pei
-  - Vijay K Kuchroo
-  publisher: Cell research
-  date: '2023-04-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36550269
+  - Vijay K. Kuchroo
+  publisher: Cell Research
+  date: '2022-12-22'
+  link: https://doi.org/hbn69f
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:32783885
