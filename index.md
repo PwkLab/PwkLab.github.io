@@ -9,59 +9,40 @@ Dr. Weike Pei obtained his Ph.D. in Immunology at Heidelberg University in 2018.
 
 ## Team memories
 
-{% capture text %}
+{% include feature.html image="images/memory2.jpg" %}
 
-{%
-  include feature.html
-  image="images/memory2.jpg"
-%}
+{% include feature.html image="images/memory1.jpg" %}
 
-{%
-  include feature.html
-  image="images/memory1.jpg"
-%}
+{% include feature.html image="images/memory3.jpg" %}
 
-{%
-  include feature.html
-  image="images/memory3.jpg"
-%}
-
-{%
-  include button.html
+{% include button.html
   link="research"
   text="See our research focus"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-wrench"
   flip=true
   style="bare"
 %}
 
-{%
-  include button.html
+{% include button.html
   link="Publications"
   text="Browse our publications"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-microscope"
   flip=true
   style="bare"
 %}
 
-{%
-  include button.html
+{% include button.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-users"
   flip=true
   style="bare"
 %}
 
-{%
-  include button.html
+{% include button.html
   link="Resources"
   text="Explore our resources"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-feather-pointed"
   flip=true
   style="bare"
 %}
-
-{% endcapture %}
-
-{% include section.html content=text %}
