@@ -2,4 +2,4 @@
   group: featured
   image: images/scltdb.png
   link: https://scltdb.com/
-  description: scLTdb a comprehensive single-cell lineage tracing database.
+  description: The first comprehensive database for single-cell lineage tracing, integrating 109 datasets with interactive modules for cell fate and lineage analysis.
