@@ -1,47 +1,14 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Embryonic Hematopoietic Stem Cell Development
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: During embryonic development, how are hematopoietic stem cells (HSCs) generated? How do newly formed HSCs sense environmental cues and migrate between embryonic organs? Is it possible to recapitulate the developmental process of embryonic HSC formation and generate off-the-shelf human HSCs in vitro?
 
-- title: Cool Package
-  subtitle: a subtitle
+
+- title: Bone Marrow Hematopoiesis in Disease Contexts
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: In adulthood, how do bone marrow hematopoietic stem cells and immune cells respond to tumors, inflammation, and central nervous system diseases (such as Alzheimer’s disease and multiple sclerosis)? Can targeting bone marrow hematopoiesis serve as a strategy to intervene in central nervous system pathologies?
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Hematopoietic Stem Cells, Immune Aging, and Age-Associated Disorders
+  group: featured
+  description: During organismal aging, how do hematopoietic stem cells drive immune aging and contribute to multi-organ functional decline? Can interventions targeting hematopoietic aging be developed to delay aging processes and prevent age-associated diseases, including neurodegenerative disorders?
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software

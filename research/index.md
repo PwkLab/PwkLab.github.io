@@ -13,8 +13,6 @@ Our previous research was focused on the development and application of novel li
 
 By integrating developmental biology, immunology, systems biology and synthetic biology, we are developing multi-dimensional single-cell lineage tracing technologies, which aims to study cell fate regulation at genetic, epigenetic, transcriptional and spatial-temporal scales. Using novel single cell approaches, we will investigate the development and regeneration of the blood and immune system under physiological conditions and challenges such as cancer, viral infection and aging.
 
-{% include tags.html tags="publication, resource, website" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
